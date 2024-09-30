@@ -38,19 +38,19 @@ Make sure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/saksham7sharma/paircode.git
+    git clone https://github.com/saksham7sharma/PairCode.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd CoCode
+    cd PairCode
     ```
 
 3. Install the dependencies for both frontend and backend:
     ```bash
-    cd cocode-backend
+    cd paircode-backend
     npm install
-    cd ../cocode-frontend
+    cd ../paircode-frontend
     npm install
     ```
 
@@ -67,13 +67,13 @@ Make sure you have the following installed:
 
 6. Start the backend server:
     ```bash
-    cd cocode-backend
+    cd paircode-backend
     node server.js
     ```
 
 7. Start the frontend server:
     ```bash
-    cd cocode-frontend
+    cd paircode-frontend
     npm run dev
     ```
 
